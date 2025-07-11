@@ -1,0 +1,8 @@
+C:\Programação\Cs\SenhaCorreta\SenhaCorreta\SenhaCorreta\bin\Debug\SenhaCorreta.exe.config
+C:\Programação\Cs\SenhaCorreta\SenhaCorreta\SenhaCorreta\bin\Debug\SenhaCorreta.exe
+C:\Programação\Cs\SenhaCorreta\SenhaCorreta\SenhaCorreta\bin\Debug\SenhaCorreta.pdb
+C:\Programação\Cs\SenhaCorreta\SenhaCorreta\SenhaCorreta\obj\Debug\SenhaCorreta.csproj.AssemblyReference.cache
+C:\Programação\Cs\SenhaCorreta\SenhaCorreta\SenhaCorreta\obj\Debug\SenhaCorreta.csproj.CoreCompileInputs.cache
+C:\Programação\Cs\SenhaCorreta\SenhaCorreta\SenhaCorreta\obj\Debug\SenhaCorreta.exe
+C:\Programação\Cs\SenhaCorreta\SenhaCorreta\SenhaCorreta\obj\Debug\SenhaCorreta.pdb
+C:\Programação\Cs\SenhaCorreta\SenhaCorreta\SenhaCorreta\obj\Debug\SenhaCorreta.exe.config
